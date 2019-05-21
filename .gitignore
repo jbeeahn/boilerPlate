@@ -1,0 +1,5 @@
+# nodejs modules
+node_modules
+
+# compiled code
+dist
